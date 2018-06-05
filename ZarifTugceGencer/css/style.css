@@ -1,0 +1,109 @@
+.icerikhr{
+    width:90%;
+    border:1px dashed black
+}
+.menuhr{
+    width:90%;
+    border:1px dashed white;
+}
+body{
+    color: white
+}
+footer {
+    background: black;
+    min-height: 50px; 
+}
+h2{
+    text-align: center;
+}
+.banner {
+    border-bottom: 3px solid #660066;
+    background-color: black!important
+}
+.acilanmenu-btn {
+    border-radius:5px;
+    float: right;
+    background: black;
+    border:1px solid white;
+    color: white;
+    font-size: 20px;  
+}
+.acilanmenu-btn:focus {
+    background: black;
+    border:1px solid white;
+    color: white;
+    font-size: 20px;  
+}
+.acilan-menu {
+    text-align: center;
+    height: auto;
+    width: 100%;
+    background: #660066;
+ 
+}
+.acilan-menu ul {
+    list-style: none;
+}
+.acilan-menu ul li {
+    padding-bottom: 10px;
+}
+.acilan-menu ul li h2 {
+    color: white;
+    padding-top: 20px;
+}
+.acilan-menu ul li a {
+    margin-right:20px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    
+}
+.site a {
+    padding: 0px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    
+}
+
+.bilgiler{
+    border-left:2px solid #660066;
+}
+.yazi{
+    margin-left:10px;
+    float: left;
+    padding-top:20px;
+    font-family:Helvetica;
+}
+.baslik{
+    font-size:30px;
+    padding-left:10px; 
+}
+ .sayfa{
+    padding-top:10px;
+    padding-left:7px;
+    font-size:15px;
+ }
+.yol{
+    font-family:Helvetica;
+    font-size:20px;
+    padding-left:10px; 
+}
+.bolum{
+    font-size:30px;
+    padding-left:10px; 
+}
+.content{
+    color:black;
+}
+.video{
+    margin-bottom: 100px;
+    padding-right:40px;
+    padding-top: 50px;
+    
+}
+.resimdiv{ 
+    padding: 0px;
+    border:1px dashed black;
+}
+
